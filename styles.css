@@ -1,0 +1,135 @@
+body {
+    background-color: rgb(189, 238, 90);
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.item1 {
+    height: fit-content;
+    border-radius: 5px;
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+}
+
+.item1:hover {
+    background-color: grey;
+    transition: 2s;
+}
+
+.item2:hover {
+    background-color: grey;
+    transition: 2s;
+}
+
+.item3:hover {
+    background-color: grey;
+    transition: 2s;
+}
+
+.item4:hover {
+    background-color: grey;
+    transition: 2s;
+}
+
+.item2 {
+    height: fit-content;
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+}
+
+.item3 {
+    height: fit-content;
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+}
+
+.item4 {
+    height: fit-content;
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+}
+
+
+#cloth {
+    height: 250px;
+    margin: 10px;
+    border-radius: 5pxpx;
+}
+
+#furniture {
+    height: 250px;
+    margin: 10px;
+}
+
+#lapy {
+    height: 250px;
+    margin: 10px;
+}
+
+#tesla {
+    height: 250px;
+    margin: 10px;
+}
+
+.btn1 {
+    background-color: rgb(189, 238, 90);
+    border: none;
+    height: 5vh;
+    width: 10vh;
+    color: white;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.desciption {
+    margin: 40px;
+}
+
+.name1 {
+    margin: 40px;
+}
+
+.desciption1 {
+    margin: 40px;
+}
+
+.name2 {
+    margin: 40px;
+}
+
+.desciption2 {
+    margin: 40px;
+}
+
+.name3 {
+    margin: 40px;
+}
+
+.desciption3 {
+    margin: 40px;
+}
+
+.name3 {
+    margin: 40px;
+}
+
+.desciption4 {
+    margin: 40px;
+}
+
+.name4 {
+    margin: 40px;
+}
